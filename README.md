@@ -1,1 +1,1 @@
-# HTML_tester
+This is a HTML and Git test project.
